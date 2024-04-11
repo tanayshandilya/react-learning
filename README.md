@@ -1,12 +1,15 @@
 # React Learning Project
 
 ## Learning Goal
+
 The goal of this project is to dive deep into React and its ecosystem, including various features, hooks, and associated libraries. Through this project, I aim to gain a comprehensive understanding of React and its best practices, enabling me to build robust and scalable web applications.
 
 ## Approach
+
 I will be using Create React App to set up the initial project structure. Each project within this repository will focus on different aspects of React, such as components, state management, routing, and styling. I will also explore advanced concepts like hooks, context API, and integrating Redux for state management.
 
 ## Guidance for Learners
+
 If you're new to React and want to learn along with me, here's how you can get started:
 
 1. **Clone the Repository:** Clone this repository to your local machine using `git clone`.
@@ -22,6 +25,7 @@ If you're new to React and want to learn along with me, here's how you can get s
 6. **Experiment and Learn:** Feel free to experiment with the code and make changes. Learning React is all about hands-on experience.
 
 ## For Recruiters
+
 This repository showcases my dedication to learning and mastering React and its associated libraries. By exploring various features, hooks, and libraries like React Router, Redux, and Bootstrap, I aim to demonstrate my ability to build complex and efficient web applications using React.
 
 ---
