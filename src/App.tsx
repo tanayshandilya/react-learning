@@ -1,10 +1,14 @@
+import FirstComponent from './components/FirstComponent/firstComponent';
+import AvatarImg from './assets/images/avatar.jpeg';
 import './styles/App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Welcome to React Learning</h1>
-      <p>This is then initial application</p>
+    <div className="app">
+      <h1>Building Our First Component</h1>
+      <div className="app-content">
+        <FirstComponent firstName="Tanay" lastName="Shandilya" img={AvatarImg} />
+      </div>
     </div>
   );
 }
