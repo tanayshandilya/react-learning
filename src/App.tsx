@@ -1,13 +1,12 @@
-import FirstComponent from './components/FirstComponent/firstComponent';
-import AvatarImg from './assets/images/avatar.jpeg';
 import './styles/App.css';
+import StatefulComponent from './components/StatefulComponent/statefulComponent';
 
 function App() {
   return (
     <div className="app">
-      <h1>Building Our First Component</h1>
+      <h1>Building A Stateful Component</h1>
       <div className="app-content">
-        <FirstComponent firstName="Tanay" lastName="Shandilya" img={AvatarImg} />
+        <StatefulComponent min={5} max={15} initialCount={10} />
       </div>
     </div>
   );
